@@ -1,0 +1,11 @@
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\CommonData\bin\Debug\CommonData.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\CommonData\bin\Debug\CommonData.pdb
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\CommonData\obj\Debug\CommonData.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\CommonData\obj\Debug\CommonData.pdb
+C:\Users\s00164384\Documents\Visual Studio 2015\Projects\SignalRMovementExampe\CommonData\obj\Debug\CommonData.csprojResolveAssemblyReference.cache
+C:\Users\kdryn\Desktop\SignalRMovementExampe\CommonData\bin\Debug\CommonData.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\CommonData\bin\Debug\CommonData.pdb
+C:\Users\kdryn\Desktop\SignalRMovementExampe\CommonData\obj\Debug\CommonData.csprojResolveAssemblyReference.cache
+C:\Users\kdryn\Desktop\SignalRMovementExampe\CommonData\obj\Debug\CommonData.csproj.CoreCompileInputs.cache
+C:\Users\kdryn\Desktop\SignalRMovementExampe\CommonData\obj\Debug\CommonData.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\CommonData\obj\Debug\CommonData.pdb

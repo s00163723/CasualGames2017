@@ -1,0 +1,73 @@
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\roslyn\csc.exe
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\roslyn\System.Collections.Immutable.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\roslyn\vbc.exe
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\roslyn\VBCSCompiler.exe
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\roslyn\VBCSCompiler.exe.config
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\SignalRServer.dll.config
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\SignalRServer.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\SignalRServer.pdb
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\CommonData.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.Owin.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.Owin.Security.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Newtonsoft.Json.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Owin.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\CommonData.pdb
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.Owin.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.Owin.Security.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Newtonsoft.Json.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\obj\Debug\SignalRServer.csprojResolveAssemblyReference.cache
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\obj\Debug\SignalRServer.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\obj\Debug\SignalRServer.pdb
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\SignalRServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\roslyn\csc.exe
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\roslyn\vbc.exe
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\roslyn\VBCSCompiler.exe
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\SignalRServer.dll.config
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\SignalRServer.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\SignalRServer.pdb
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\CommonData.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.Owin.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.Owin.Security.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Newtonsoft.Json.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Owin.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\CommonData.pdb
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.Owin.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Microsoft.Owin.Security.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\bin\Newtonsoft.Json.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\obj\Debug\SignalRServer.csprojResolveAssemblyReference.cache
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\obj\Debug\SignalRServer.csproj.CoreCompileInputs.cache
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\obj\Debug\SignalRServer.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\SignalRServer\obj\Debug\SignalRServer.pdb

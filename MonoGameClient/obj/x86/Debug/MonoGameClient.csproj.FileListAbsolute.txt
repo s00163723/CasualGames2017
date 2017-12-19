@@ -1,0 +1,63 @@
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.pdb
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.csprojResolveAssemblyReference.cache
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe.config
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\CommonData.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\CommonData.pdb
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.xml
+c:\users\s00164384\documents\visual studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\s00164384\Documents\Visual Studio 2015\Projects\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Content\keyboardfont.xnb
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Content\keyboardfont.xnb
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe.config
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.pdb
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\CommonData.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\CommonData.pdb
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.csprojResolveAssemblyReference.cache
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.csproj.CoreCompileInputs.cache
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
+C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb
