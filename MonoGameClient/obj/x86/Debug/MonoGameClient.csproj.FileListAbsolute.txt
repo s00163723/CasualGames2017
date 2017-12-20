@@ -61,3 +61,6 @@ C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGa
 C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.csproj.CoreCompileInputs.cache
 C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
 C:\Users\kdryn\Desktop\SignalRMovementExampe\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb
+C:\Users\Daniel\Source\Repos\CasualGames2017\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe.config
+C:\Users\Daniel\Source\Repos\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
+C:\Users\Daniel\Source\Repos\CasualGames2017\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb
